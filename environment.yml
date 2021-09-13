@@ -263,4 +263,4 @@ dependencies:
     - tabulate==0.8.7
     - torch==1.6.0
     - werkzeug==1.0.1
-conda env export --no-builds | grep -v "prefix" > environment.yml    - wget==3.2
+    - wget==3.2
